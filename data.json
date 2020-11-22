@@ -1,0 +1,53 @@
+[
+    {
+      "images": [
+        {
+          "url": "https://thoughtworks-mobile-2018.herokuapp.com/images/tweets/001.jpeg"
+        },
+        {
+          "url": "https://thoughtworks-mobile-2018.herokuapp.com/images/tweets/002.jpeg"
+        },
+        {
+          "url": "https://thoughtworks-mobile-2018.herokuapp.com/images/tweets/003.jpeg"
+        }
+      ],
+      "sender": {
+        "username": "cyao",
+        "nick": "Cheng Yao",
+        "avatar": "https://thoughtworks-mobile-2018.herokuapp.com/images/user/avatar/001.jpeg"
+      },
+      "comments": [
+        {
+          "content": "Good.",
+          "sender": {
+            "username": "leihuang",
+            "nick": "Lei Huang",
+            "avatar": "https://thoughtworks-mobile-2018.herokuapp.com/images/user/avatar/002.jpeg"
+          }
+        },
+        {
+          "content": "Like it too",
+          "sender": {
+            "username": "weidong",
+            "nick": "WeiDong Gu",
+            "avatar": "https://thoughtworks-mobile-2018.herokuapp.com/images/user/avatar/003.jpeg"
+          }
+        }
+      ]
+    },
+    {
+        "content": "",
+        "sender": {
+          "username": "yanzili",
+          "nick": "Yanzi Li",
+          "avatar": "https://thoughtworks-mobile-2018.herokuapp.com/images/user/avatar/002.jpeg"
+        }
+      },
+      {
+        "sender": {
+          "username": "yanzili",
+          "nick": "Yanzi Li",
+          "avatar": "https://thoughtworks-mobile-2018.herokuapp.com/images/user/avatar/002.jpeg"
+        }
+      }
+  ]
